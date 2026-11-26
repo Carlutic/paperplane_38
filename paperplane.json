@@ -1,0 +1,16 @@
+[
+ {
+  "id": 190367,
+  "name": "科本斯",
+  "displayName": "科本斯 NANODA-SP - Bunny Girl 1 Cowpens NANODA-SP",
+  "weaponType": "",
+  "element": "Paperplane",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/char0",
+  "image": "Covers/char0.png",
+  "pmx": "Bunny Girl 1 Cowpens NANODA-SP.pmx",
+  "base": "https://carlutic.github.io/paperplane_38/"
+ }
+]

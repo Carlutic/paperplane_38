@@ -1,0 +1,44 @@
+[
+ {
+  "id": 191487,
+  "name": "科本斯",
+  "displayName": "科本斯 NANODA-SP - Bunny Girl 2 Cowpens NANODA-SP",
+  "weaponType": "",
+  "element": "Paperplane",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/char0",
+  "image": "Covers/char0.png",
+  "pmx": "Bunny Girl 2 Cowpens NANODA-SP.pmx",
+  "base": "https://carlutic.github.io/paperplane_38/"
+ },
+ {
+  "id": 191488,
+  "name": "科本斯",
+  "displayName": "科本斯 NANODA-SP - Maidoutfit USS Cowpens  ver1.0  NANODA-SP",
+  "weaponType": "",
+  "element": "Paperplane",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/char0",
+  "image": "Covers/char0.png",
+  "pmx": "Maidoutfit USS Cowpens  ver1.0  NANODA-SP.pmx",
+  "base": "https://carlutic.github.io/paperplane_38/"
+ },
+ {
+  "id": 191489,
+  "name": "科本斯",
+  "displayName": "科本斯 NANODA-SP - USS Cowpens  ver1.0  NANODA-SP",
+  "weaponType": "",
+  "element": "Paperplane",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/char0",
+  "image": "Covers/char0.png",
+  "pmx": "USS Cowpens  ver1.0  NANODA-SP.pmx",
+  "base": "https://carlutic.github.io/paperplane_38/"
+ }
+]
